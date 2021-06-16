@@ -165,9 +165,9 @@ form{
     #partnerlogo{
         position: absolute;
         margin-top: 15px;
-        margin-left: 16px;
-        width: 85px;
-        height: 75px;
+        margin-left: 12px;
+        width: 80px;
+        height: 69px;
     }
     h1{
         user-select: none;
